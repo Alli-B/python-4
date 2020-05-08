@@ -1,0 +1,2 @@
+{'username': 'James', 'password': 'intellectual007', 'email': 'online@yahoo.com', 'fullName': 'James Online'}
+{'username': 'Jane', 'password': 'bakedbeans', 'email': 'jane@yahoo.com', 'fullName': 'Jane Beans'}
